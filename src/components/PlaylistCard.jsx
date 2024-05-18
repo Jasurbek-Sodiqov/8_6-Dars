@@ -1,12 +1,5 @@
-
-
 function PlaylistCard() {
-    return (
-        <div>
-            playlistCARD
-        </div>
-    )
+  return <div>playlistCARD</div>;
 }
 
-
-export default PlaylistCard
+export default PlaylistCard;

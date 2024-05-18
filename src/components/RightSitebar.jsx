@@ -6,7 +6,6 @@ function RightSitebar() {
     height: 100vh;
     background-color: #000;
     color: #b3b3b3;
-    
   `;
 
   return <SiteBarWrapp>right</SiteBarWrapp>;

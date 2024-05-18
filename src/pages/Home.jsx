@@ -5,7 +5,6 @@ function Home() {
     width: 66%;
     background-color: #;
     background: linear-gradient(180deg, #3333a3 5.09%, #121212 55.4%);
-
   `;
 
   return (

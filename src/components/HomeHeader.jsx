@@ -7,9 +7,10 @@ function HomeHeader() {
   const Images = styled.div`
     cursor: pointer;
     grid-container {
-        gap: 50px;
-      }
-  `;''
+      gap: 50px;
+    }
+  `;
+  ("");
   return (
     <HomeWrapp>
       <div>
