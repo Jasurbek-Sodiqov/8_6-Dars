@@ -1,7 +1,6 @@
 import styled from "@emotion/styled";
 
 function HomeHeader() {
-  // styled
   const HomeWrapp = styled.div`
     padding: 20px;
   `;
