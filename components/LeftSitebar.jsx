@@ -1,15 +1,14 @@
 import styled from "@emotion/styled";
 
-function RightSitebar() {
+function LeftSitebar() {
   const SiteBarWrapp = styled.div`
     width: 20%;
     height: 100vh;
     background-color: #000;
     color: #b3b3b3;
-    
   `;
 
-  return <SiteBarWrapp>right</SiteBarWrapp>;
+  return <SiteBarWrapp>left</SiteBarWrapp>;
 }
 
-export default RightSitebar;
+export default LeftSitebar;
